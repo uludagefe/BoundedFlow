@@ -42,5 +42,6 @@ Thumbs.db
 *.jfr
 
 # Dataset (download from Kaggle) and generated output
-data/
+data/*
+!data/sample/
 output/
